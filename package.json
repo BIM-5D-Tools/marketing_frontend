@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "lucide-vue-next": "^1.0.0",
+    "nuxt": "^4.5.2",
+    "page-flip": "^2.0.7",
+    "pdfjs-dist": "3.11.174",
+    "swiper": "^14.1.0",
+    "vue": "^3.5.41",
+    "vue-easy-lightbox": "^1.19.0",
+    "vue-router": "^5.2.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.14.0"
+  }
+}
