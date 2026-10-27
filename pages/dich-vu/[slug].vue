@@ -95,7 +95,7 @@ const renderLayoutComponent = (layoutType) => {
 };
 
 useSeoMeta({
-  title: () => `${service.value?.name || "Dịch vụ BIM"} | DDIC`,
+  title: () => `${service.value?.name || "Dịch vụ BIM"} | TechBuilding`,
   description: () => service.value?.summary,
 });
 </script>

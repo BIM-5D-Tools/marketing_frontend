@@ -61,7 +61,7 @@ const filteredProjects = computed(() => {
 })
 
 useSeoMeta({
-  title: 'Hồ Sơ Năng Lực & Dự Án | DDIC',
+  title: 'Hồ Sơ Năng Lực & Dự Án | TechBuilding',
   description: 'Tổng hợp các dự án tiêu biểu ứng dụng công nghệ BIM.'
 })
 </script>

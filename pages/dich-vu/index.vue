@@ -55,7 +55,7 @@ const { fetchApi } = useApi()
 const { data: services } = await fetchApi('/bim-services/')
 
 useSeoMeta({
-  title: 'Tất Cả Dịch Vụ BIM | DDIC',
+  title: 'Tất Cả Dịch Vụ BIM | TechBuilding',
   description: 'Danh mục dịch vụ BIM chuyên sâu từ 3D, 4D, 5D đến 6D.'
 })
 </script>

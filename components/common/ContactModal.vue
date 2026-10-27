@@ -19,7 +19,7 @@
         Đăng Ký Tư Vấn Dịch Vụ
       </h3>
       <p class="text-slate-500 text-sm mb-6">
-        Để lại thông tin để đội ngũ chuyên gia DDIC liên hệ lại trong
+        Để lại thông tin để đội ngũ chuyên gia TechBuilding liên hệ lại trong
         thời gian sớm nhất.
       </p>
 

@@ -19,7 +19,7 @@ export default defineEventHandler(async (event) => {
     .map(
       (route) => `
     <url>
-      <loc>https://ddic.vn${route}</loc>
+      <loc>https://techbuilding.vn${route}</loc>
       <lastmod>${new Date().toISOString()}</lastmod>
       <changefreq>weekly</changefreq>
       <priority>${route === "/" ? "1.0" : "0.8"}</priority>

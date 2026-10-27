@@ -16,7 +16,7 @@
         <div class="flex flex-col">
           <span
             class="font-bold text-lg tracking-wider text-slate-900 uppercase"
-            >DDIC</span
+            >TechBuilding</span
           >
           <span
             class="text-[10px] text-blue-600 font-semibold tracking-widest uppercase"

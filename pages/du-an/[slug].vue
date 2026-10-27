@@ -65,7 +65,7 @@ const { fetchApi, getMediaUrl } = useApi()
 const { data: project } = await fetchApi(`/projects/${route.params.slug}/`)
 
 useSeoMeta({
-  title: () => `${project.value?.title || 'Dự án'} | DDIC`,
+  title: () => `${project.value?.title || 'Dự án'} | TechBuilding`,
   description: () => project.value?.overview
 })
 </script>

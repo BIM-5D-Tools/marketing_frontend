@@ -46,7 +46,7 @@ const formatDate = (dateStr) => {
 }
 
 useSeoMeta({
-  title: () => `${article.value?.title || 'Tin tức'} | DDIC`,
+  title: () => `${article.value?.title || 'Tin tức'} | TechBuilding`,
   description: () => article.value?.summary
 })
 </script>

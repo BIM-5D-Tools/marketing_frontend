@@ -35,10 +35,10 @@ import ContactSection from "~/components/home/ContactSection.vue";
 
 // Tối ưu SEO Metadata cho Trang chủ Marketing
 useSeoMeta({
-  title: "DDIC - Giải Pháp Dịch Vụ BIM & Tư Vấn Xây Dựng Công Nghệ Cao",
-  ogTitle: "DDIC JSC - Dịch Vụ BIM 3D, 4D, 5D, 6D & PMIS",
+  title: "TechBuilding - Giải Pháp Dịch Vụ BIM & Tư Vấn Xây Dựng Công Nghệ Cao",
+  ogTitle: "TechBuilding JSC - Dịch Vụ BIM 3D, 4D, 5D, 6D & PMIS",
   description:
-    "Công ty Cổ phần Tư vấn & Xây dựng DDIC chuyên tư vấn thiết kế, ứng dụng mô hình BIM và giải pháp quản lý PMIS cho công trình.",
+    "Công ty Cổ phần Tư vấn & Xây dựng TechBuilding chuyên tư vấn thiết kế, ứng dụng mô hình BIM và giải pháp quản lý PMIS cho công trình.",
   ogDescription:
     "Tiên phong ứng dụng mô hình thông tin công trình BIM, so sánh bản vẽ và tối ưu chi phí xây dựng.",
   ogImage:

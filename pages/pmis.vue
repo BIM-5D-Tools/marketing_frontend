@@ -6,16 +6,16 @@
         <span
           class="px-3.5 py-1 bg-blue-50 text-blue-700 text-xs font-bold rounded-full border border-blue-100 uppercase"
         >
-          Giải Pháp Quản Lý Dự Án[cite: 1]
+          Giải Pháp Quản Lý Dự Án
         </span>
         <h1
           class="text-3xl sm:text-5xl font-extrabold text-slate-900 mt-4 mb-6 leading-tight"
         >
-          Hệ Thống PMIS DDIC
+          Hệ Thống PMIS TechBuilding
         </h1>
         <p class="text-slate-600 text-lg leading-relaxed">
           Nền tảng quản lý dự án trực quan nhấn mạnh vào công tác quản lý thiết
-          kế và kiểm soát tiến độ công trình bằng hình ảnh số hóa[cite: 1].
+          kế và kiểm soát tiến độ công trình bằng hình ảnh số hóa.
         </p>
       </div>
 
@@ -28,7 +28,7 @@
             </h3>
             <p class="text-slate-600 text-sm">
               Cho phép số hóa quy trình phê duyệt hồ sơ, phát hiện sự sai lệch
-              giữa các phiên bản thiết kế tức thì[cite: 1].
+              giữa các phiên bản thiết kế tức thì.
             </p>
           </div>
           <div class="p-6 rounded-2xl bg-slate-50 border border-slate-200">
@@ -37,7 +37,7 @@
             </h3>
             <p class="text-slate-600 text-sm">
               Theo dõi hiện trạng công trình trực quan thông qua mô hình 3D và
-              hệ thống ảnh Panorama 360[cite: 1].
+              hệ thống ảnh Panorama 360.
             </p>
           </div>
         </div>
@@ -49,7 +49,7 @@
             class="aspect-video bg-slate-950 rounded-2xl overflow-hidden flex items-center justify-center text-slate-400"
           >
             <p class="text-sm font-medium">
-              [ Demo Giao diện Hệ thống PMIS DDIC ][cite: 1]
+              [ Demo Giao diện Hệ thống PMIS TechBuilding ]
             </p>
           </div>
         </div>
@@ -60,8 +60,8 @@
 
 <script setup>
 useSeoMeta({
-  title: "Hệ Thống PMIS - Quản Lý Dự Án & Thiết Kế Trực Quan | DDIC",
+  title: "Hệ Thống PMIS - Quản Lý Dự Án & Thiết Kế Trực Quan | TechBuilding",
   description:
-    "Giới thiệu hệ thống phần mềm PMIS quản lý dự án bằng hình ảnh và mô hình số hóa[cite: 1].",
+    "Giới thiệu hệ thống phần mềm PMIS quản lý dự án bằng hình ảnh và mô hình số hóa.",
 });
 </script>

@@ -57,7 +57,7 @@ const { fetchApi, getMediaUrl } = useApi()
 const { data: articles } = await fetchApi('/news/')
 
 useSeoMeta({
-  title: 'Tin Tức & Thị Trường BIM | DDIC',
+  title: 'Tin Tức & Thị Trường BIM | TechBuilding',
   description: 'Cập nhật tin tức quy định văn bản nhà nước và xu hướng BIM.'
 })
 </script>

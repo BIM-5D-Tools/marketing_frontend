@@ -20,7 +20,7 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: "DDIC - Tư vấn & Xây dựng Công nghệ cao",
+      title: "TechBuilding - Tư vấn & Xây dựng Công nghệ cao",
       meta: [
         { charset: "utf-8" },
         { name: "viewport", content: "width=device-width, initial-scale=1" },

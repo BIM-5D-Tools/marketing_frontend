@@ -39,7 +39,7 @@
             class="aspect-video bg-white rounded-2xl overflow-hidden flex items-center justify-center border border-slate-200"
           >
             <p class="text-slate-400 text-sm font-medium">
-              [ Demo Giao diện Hệ thống PMIS DDIC ]
+              [ Demo Giao diện Hệ thống PMIS TechBuilding ]
             </p>
           </div>
         </div>

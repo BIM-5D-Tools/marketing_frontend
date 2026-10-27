@@ -13,11 +13,11 @@
               TB
             </div>
             <span class="font-bold text-white text-lg tracking-wider"
-              >DDIC JSC</span
+              >TechBuilding JSC</span
             >
           </div>
           <p class="text-slate-400 text-xs leading-relaxed max-w-md">
-            Công ty Cổ phần tư vấn và Xây dựng DDIC - Tiên phong trong
+            Công ty Cổ phần tư vấn và Xây dựng TechBuilding - Tiên phong trong
             lĩnh vực tư vấn thiết kế xây dựng ứng dụng công nghệ cao và hệ sinh
             thái BIM.
           </p>
@@ -59,7 +59,7 @@
           <h4 class="text-white font-bold text-sm mb-4">Liên hệ</h4>
           <ul class="space-y-2 text-xs text-slate-400">
             <li>📍 Hà Nội, Việt Nam</li>
-            <li>✉️ contact@DDIC.vn</li>
+            <li>✉️ contact@techbuilding.vn</li>
             <li>📞 Hotline: (+84) 098x xxx xxx</li>
           </ul>
         </div>
@@ -69,7 +69,7 @@
         class="border-t border-slate-800 pt-8 text-center text-xs text-slate-500"
       >
         <p>
-          © 2026 Công ty Cổ phần tư vấn và Xây dựng DDIC. All rights
+          © 2026 Công ty Cổ phần tư vấn và Xây dựng TechBuilding. All rights
           reserved.
         </p>
       </div>
