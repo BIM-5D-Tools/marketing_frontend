@@ -1,7 +1,6 @@
 <!-- frontend/components/services/DrawingFlipLayout.vue -->
 <template>
   <div class="space-y-6">
-    
     <!-- KHUNG VIEWER TỔNG THỂ (LIGHT THEME) -->
     <div 
       ref="viewerContainerRef"
@@ -182,7 +181,6 @@
         <iframe :src="detail.embed_conflict_tool_url" class="w-full h-full border-0"></iframe>
       </div>
     </div>
-
   </div>
 </template>
 

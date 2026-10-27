@@ -33,4 +33,28 @@ export default defineNuxtConfig({
       link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
     },
   },
+
+  nitro: {
+    esbuild: {
+      options: {
+        target: "esnext",
+      },
+    },
+  },
+
+  vite: {
+    optimizeDeps: {
+      exclude: ["pdfjs-dist"],
+    },
+    build: {
+      rollupOptions: {
+        external: ["canvas"],
+      },
+    },
+    resolve: {
+      alias: {
+        canvas: false,
+      },
+    },
+  },
 });
