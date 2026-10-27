@@ -22,6 +22,8 @@
 </template>
 
 <script setup>
+import ContactSection from "~/components/home/ContactSection.vue";
+
 useSeoMeta({
   title: "Liên Hệ Đội Ngũ Chuyên Gia | TechBuilding",
   description:

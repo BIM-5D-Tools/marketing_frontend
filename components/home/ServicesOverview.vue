@@ -16,7 +16,7 @@
           class="p-8 rounded-3xl bg-white border border-slate-200/80 shadow-xs hover:shadow-xl hover:border-blue-500/50 transition-all duration-300 group flex flex-col justify-between"
         >
           <div>
-            <div class="w-14 h-14 rounded-2xl bg-blue-50 text-blue-600 border border-blue-100 flex items-center justify-center font-black text-lg mb-6 group-hover:bg-blue-600 group-hover:text-white transition-colors">
+            <div class="text-center w-14 h-14 rounded-2xl bg-blue-50 text-blue-600 border border-blue-100 flex items-center justify-center font-black text-lg mb-6 group-hover:bg-blue-600 group-hover:text-white transition-colors">
               {{ service.name.slice(0, 6) }}
             </div>
             <h3 class="text-xl font-bold text-slate-900 mb-3 group-hover:text-blue-600 transition-colors">
