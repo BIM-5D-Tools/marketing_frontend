@@ -51,10 +51,5 @@ export default defineNuxtConfig({
         external: ["canvas"],
       },
     },
-    resolve: {
-      alias: {
-        canvas: false,
-      },
-    },
   },
 });
